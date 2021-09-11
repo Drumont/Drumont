@@ -87,6 +87,9 @@ plugins=(
     history
     sudo
     yarn
+    docker
+    docker-compose
+    kubectl
     )
 
 source $ZSH/oh-my-zsh.sh
